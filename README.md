@@ -4,7 +4,9 @@ A React app for testing basic React knowledge
 
 ## Description
 
-This app contains a timed quiz to test the user's knowledge of React concepts. \n\nEach question has a different number of points, and as the user answers each question correctly, the points add up. When the test is finished(or when the time runs out), the user can see their points, and the percentage of the questions they answered correctly.\n\nThe user can also see their highscore which is reserved across attempts.
+This app contains a timed quiz to test the user's knowledge of React concepts. <br/>
+<br/>Each question has a different number of points, and as the user answers each question correctly, the points add up. When the test is finished(or when the time runs out), the user can see their points, and the percentage of the questions they answered correctly.<br/>
+<br/>The user can also see their highscore which is reserved across attempts.
 
 ## Installation
 
